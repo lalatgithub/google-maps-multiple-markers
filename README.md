@@ -1,4 +1,4 @@
-####Google Maps multiple Markers 
+###Google Maps multiple Markers 
 =================================
 
 1. index.html has a **div** to show Map
@@ -15,7 +15,7 @@ Please put your [Google console](https://console.developers.google.com) API key 
 async defer></script>
 ```
 
-Get your lat, long list and pass it to var locations in map_script.js 
+Get your lat, long list and pass it to `var locations` in map_script.js 
 
 ```javascript
 var locations = [
