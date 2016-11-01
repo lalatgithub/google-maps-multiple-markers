@@ -12,7 +12,7 @@
 Please put your Google console API key in index.html 
 ```html
 <script src="https://maps.googleapis.com/maps/api/js?key=GOOGLE_API_KEY&callback=initiateMap" 
-async defer></script>`
+async defer></script>
 ```
 
 Get your lat, long list and pass it to var locations in map_script.js 
