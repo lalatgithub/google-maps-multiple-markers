@@ -9,7 +9,7 @@
 
 **NOTE**
 
-Please put your Google console API key in index.html 
+Please put your [Google console](https://console.developers.google.com) API key in index.html 
 ```html
 <script src="https://maps.googleapis.com/maps/api/js?key=GOOGLE_API_KEY&callback=initiateMap" 
 async defer></script>
