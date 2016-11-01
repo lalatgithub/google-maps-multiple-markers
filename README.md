@@ -1,8 +1,8 @@
 ####Google Maps multiple Markers 
 =================================
 
-1. *index.html* has a **div** to show Map
-2. *map_script.js* - javascript to draw multiple markers on Google Map
+1. index.html has a **div** to show Map
+2. map_script.js - javascript to draw multiple markers on Google Map
 3. Link to Google Map API
 
 >Automatically center the map fitting all markers on the screen
